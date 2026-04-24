@@ -64,7 +64,6 @@ unicodedata
 
 El script requiere una carpeta plantilla con HTMLs base:
 
-```text
 plantilla_ejemplo/
 ├── segundo_trimestre_2026.html
 ├── entidad_1/
