@@ -2,8 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/status-production--ready-success)
 ![Automation](https://img.shields.io/badge/type-automation-purple)
-![Repo Size](https://img.shields.io/github/repo-size/SleekVoidAI/pipeline-clonacion-art73-html)
-![Last Commit](https://img.shields.io/github/last-commit/SleekVoidAI/pipeline-clonacion-art73-html)
+
 ![Made With Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
 
 
