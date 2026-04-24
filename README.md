@@ -91,12 +91,6 @@ Modificar el panel de configuración en el script:
 No requiere librerías externas.
 
 
-## NOTAS IMPORTANTES
-
-El script depende de la estructura HTML de la plantilla
-Se recomienda usar datos de prueba o anonimizar contenido
-No incluir rutas reales en repositorios públicos
-El pipeline está diseñado para procesamiento batch
 
 
 ## CASO DE USO
